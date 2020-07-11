@@ -1,0 +1,108 @@
+[2020-07-11 15:47:40 +0000] [203] [INFO] Starting gunicorn 19.6.0
+[2020-07-11 15:47:40 +0000] [203] [INFO] Listening at: http://0.0.0.0:8000 (203)
+[2020-07-11 15:47:40 +0000] [203] [INFO] Using worker: sync
+[2020-07-11 15:47:40 +0000] [208] [INFO] Booting worker with pid: 208
+[2020-07-11 15:47:40 +0000] [209] [INFO] Booting worker with pid: 209
+[2020-07-11 15:49:25 +0000] [222] [INFO] Starting gunicorn 19.6.0
+[2020-07-11 15:49:25 +0000] [222] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:49:25 +0000] [222] [ERROR] Retrying in 1 second.
+[2020-07-11 15:49:26 +0000] [222] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:49:26 +0000] [222] [ERROR] Retrying in 1 second.
+[2020-07-11 15:49:27 +0000] [222] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:49:27 +0000] [222] [ERROR] Retrying in 1 second.
+[2020-07-11 15:49:28 +0000] [222] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:49:28 +0000] [222] [ERROR] Retrying in 1 second.
+[2020-07-11 15:49:29 +0000] [222] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:49:29 +0000] [222] [ERROR] Retrying in 1 second.
+[2020-07-11 15:49:30 +0000] [222] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2020-07-11 15:50:43 +0000] [233] [INFO] Starting gunicorn 19.6.0
+[2020-07-11 15:50:43 +0000] [233] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:50:43 +0000] [233] [ERROR] Retrying in 1 second.
+[2020-07-11 15:50:44 +0000] [233] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:50:44 +0000] [233] [ERROR] Retrying in 1 second.
+[2020-07-11 15:50:45 +0000] [233] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:50:45 +0000] [233] [ERROR] Retrying in 1 second.
+[2020-07-11 15:50:46 +0000] [233] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:50:46 +0000] [233] [ERROR] Retrying in 1 second.
+[2020-07-11 15:50:47 +0000] [233] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:50:47 +0000] [233] [ERROR] Retrying in 1 second.
+[2020-07-11 15:50:48 +0000] [233] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2020-07-11 15:56:34 +0000] [928] [INFO] Starting gunicorn 20.0.4
+[2020-07-11 15:56:34 +0000] [928] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:34 +0000] [928] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:35 +0000] [928] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:35 +0000] [928] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:36 +0000] [928] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:36 +0000] [928] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:37 +0000] [928] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:37 +0000] [928] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:38 +0000] [928] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:38 +0000] [928] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:39 +0000] [928] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2020-07-11 15:56:51 +0000] [938] [INFO] Starting gunicorn 20.0.4
+[2020-07-11 15:56:51 +0000] [938] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:51 +0000] [938] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:52 +0000] [938] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:52 +0000] [938] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:53 +0000] [938] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:53 +0000] [938] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:54 +0000] [938] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:54 +0000] [938] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:55 +0000] [938] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:56:55 +0000] [938] [ERROR] Retrying in 1 second.
+[2020-07-11 15:56:56 +0000] [938] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2020-07-11 15:58:13 +0000] [1029] [INFO] Starting gunicorn 20.0.4
+[2020-07-11 15:58:13 +0000] [1029] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:58:13 +0000] [1029] [ERROR] Retrying in 1 second.
+[2020-07-11 15:58:14 +0000] [1029] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:58:14 +0000] [1029] [ERROR] Retrying in 1 second.
+[2020-07-11 15:58:15 +0000] [1029] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:58:15 +0000] [1029] [ERROR] Retrying in 1 second.
+[2020-07-11 15:58:16 +0000] [1029] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:58:16 +0000] [1029] [ERROR] Retrying in 1 second.
+[2020-07-11 15:58:17 +0000] [1029] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 15:58:17 +0000] [1029] [ERROR] Retrying in 1 second.
+[2020-07-11 15:58:18 +0000] [1029] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2020-07-11 16:00:45 +0000] [203] [INFO] Handling signal: term
+[2020-07-11 16:00:45 +0000] [208] [INFO] Worker exiting (pid: 208)
+[2020-07-11 16:00:45 +0000] [209] [INFO] Worker exiting (pid: 209)
+[2020-07-11 16:00:46 +0000] [203] [INFO] Shutting down: Master
+[2020-07-11 16:01:11 +0000] [1111] [INFO] Starting gunicorn 20.0.4
+[2020-07-11 16:01:11 +0000] [1111] [INFO] Listening at: http://0.0.0.0:8000 (1111)
+[2020-07-11 16:01:11 +0000] [1111] [INFO] Using worker: sync
+[2020-07-11 16:01:11 +0000] [1115] [INFO] Booting worker with pid: 1115
+[2020-07-11 16:01:11 +0000] [1117] [INFO] Booting worker with pid: 1117
+[2020-07-11 16:01:43 +0000] [1163] [INFO] Starting gunicorn 20.0.4
+[2020-07-11 16:01:43 +0000] [1163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 16:01:43 +0000] [1163] [ERROR] Retrying in 1 second.
+[2020-07-11 16:01:44 +0000] [1163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 16:01:44 +0000] [1163] [ERROR] Retrying in 1 second.
+[2020-07-11 16:01:45 +0000] [1163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 16:01:45 +0000] [1163] [ERROR] Retrying in 1 second.
+[2020-07-11 16:01:46 +0000] [1163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 16:01:46 +0000] [1163] [ERROR] Retrying in 1 second.
+[2020-07-11 16:01:47 +0000] [1163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2020-07-11 16:01:47 +0000] [1163] [ERROR] Retrying in 1 second.
+[2020-07-11 16:01:48 +0000] [1163] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2020-07-11 16:09:49 +0000] [1366] [INFO] Starting gunicorn 20.0.4
+[2020-07-11 16:09:49 +0000] [1366] [INFO] Listening at: http://0.0.0.0:8000 (1366)
+[2020-07-11 16:09:49 +0000] [1366] [INFO] Using worker: sync
+[2020-07-11 16:09:49 +0000] [1369] [INFO] Booting worker with pid: 1369
+[2020-07-11 16:09:49 +0000] [1371] [INFO] Booting worker with pid: 1371
+[2020-07-11 16:11:59 +0000] [1418] [INFO] Starting gunicorn 20.0.4
+[2020-07-11 16:11:59 +0000] [1418] [INFO] Listening at: http://0.0.0.0:2125 (1418)
+[2020-07-11 16:11:59 +0000] [1418] [INFO] Using worker: sync
+[2020-07-11 16:11:59 +0000] [1421] [INFO] Booting worker with pid: 1421
+[2020-07-11 16:11:59 +0000] [1423] [INFO] Booting worker with pid: 1423
+[2020-07-11 16:12:33 +0000] [1469] [INFO] Starting gunicorn 20.0.4
+[2020-07-11 16:12:33 +0000] [1469] [ERROR] Connection in use: ('0.0.0.0', 2125)
+[2020-07-11 16:12:33 +0000] [1469] [ERROR] Retrying in 1 second.
+[2020-07-11 16:12:34 +0000] [1469] [ERROR] Connection in use: ('0.0.0.0', 2125)
+[2020-07-11 16:12:34 +0000] [1469] [ERROR] Retrying in 1 second.
+[2020-07-11 16:12:35 +0000] [1469] [ERROR] Connection in use: ('0.0.0.0', 2125)
+[2020-07-11 16:12:35 +0000] [1469] [ERROR] Retrying in 1 second.
+[2020-07-11 16:12:36 +0000] [1469] [ERROR] Connection in use: ('0.0.0.0', 2125)
+[2020-07-11 16:12:36 +0000] [1469] [ERROR] Retrying in 1 second.
+[2020-07-11 16:12:37 +0000] [1469] [ERROR] Connection in use: ('0.0.0.0', 2125)
+[2020-07-11 16:12:37 +0000] [1469] [ERROR] Retrying in 1 second.
+[2020-07-11 16:12:38 +0000] [1469] [ERROR] Can't connect to ('0.0.0.0', 2125)
