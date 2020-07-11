@@ -1,14 +1,13 @@
-from django.urls import path
+from django.conf.urls import url
 from . import views
 
-urlpatterns = [                                                                 
-    path('login/', admin.site.urls),
-    path('', views.test, name='qa_list'),
-    path('login/', views.test, name='login'),
-	path('signup/', views.test, name='signup'),
-	path('question/<int:id>/', views.test, name='question'),
-	path('ask/', views.test, name='ask'),
-	path('popular/', views.test, name='popular'),
-	path('new/', views.test, name='new'),                                            
-]                 
-
+urlpatterns = [
+    url(r'^$', views.test, name='index'),
+    url(r'^login/', views.test, name='login'),
+    url(r'^signup/', views.test, name='signup'),
+    url(r'^question/', views.test, name='question'),
+    url(r'^question/<int:id>/', views.test),
+    url(r'^ask/', views.test, name='ask'),
+    url(r'^popular/', views.test, name='popular'),
+    url(r'^new/', views.test, name='new'),
+]
